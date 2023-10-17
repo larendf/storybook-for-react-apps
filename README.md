@@ -1,6 +1,6 @@
 ## Storybook for React Apps
 
-This is MealDrop, the real-world app used in the [Storybook for React apps](https://www.newline.co/courses/storybook-for-react-apps) course built by [Yann Braga](https://twitter.com/yannbf) to serve as an example for all the cool things you can do with Storybook!
+This is MealDrop, the real-world app used in the [Storybook for React apps to serve as an example for all the cool things you can do with Storybook!
 
 It's a food delivery app built from scratch with:
 
